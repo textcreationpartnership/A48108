@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter in answer to a city friend, shewing how agreeable liberty of conscience is to the Church of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48108</idno>
+            <idno type="STC">Wing L1553</idno>
+            <idno type="STC">ESTC R10171</idno>
+            <idno type="EEBO-CITATION">12330412</idno>
+            <idno type="OCLC">ocm 12330412</idno>
+            <idno type="VID">59645</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59645)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 639:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter in answer to a city friend, shewing how agreeable liberty of conscience is to the Church of England</title>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59645:1" rendition="simple:additions"/>
+            <p>A LETTER In Anſwer to a CITY FRIEND, Shewing how Agreeable <hi>Liberty of Conſcience</hi> Is to the CHURCH of ENGLAND.</p>
+            <p>Licens'd <hi>April</hi> 9. 1687.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:59645:2"/>
+            <pb n="1" facs="tcp:59645:2"/>
+            <head>A LETTER In Anſwer to a City Friend, SHEWING, How Agreeable <hi>Liberty of Conſcience</hi> is to the <hi>Church of England.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have receiv'd Yours, wherein you ſeem to make ſome Reflections upon the Church of <hi>England,</hi> and with ſome earneſtneſs to deſire my Opinion in the Affair, eſpecially in relation to the late <hi>Indulgence</hi> granted by His Majeſty for <hi>Liberty of Conſcience.</hi> To a Friend I cannot deny ſo ſmall a Requeſt. I'll therefore, without any farther Preamble freely ſpeak to the Points you propos'd, and ſo leave them to your Conſideration.</p>
+            <p>Firſt, As to what you apprehend, that this <hi>Indulgence</hi> will not be well lik'd by the Church of <hi>England,</hi> 'tis my Opinion you are under a Miſtake: My Reaſon is, becauſe the Church of <hi>England</hi> is a Church, whoſe greateſt Glory has been in its <hi>Moderation</hi> and <hi>Tenderneſs.</hi> Now what occaſion of Trouble can it be to a <hi>Tender-hearted Church,</hi> to ſee all Chriſtians peaceably profeſſing their Religion, without any poſſibility of Vexation from their Neigh<g ref="char:EOLhyphen"/>bors? Were the Church of <hi>England</hi> a Church that took
+<pb n="2" facs="tcp:59645:3"/>pleaſure in Wracking of Conſciences, in Oppreſſion of their Neighbors, in Perſecuting and Impriſoning, I ſhould be ſomething of your Mind, and begin to ſuſpect, that this <hi>Liberty</hi> would not be at all agreeable to ſuch a Temper: But you know how She has always declar'd a<g ref="char:EOLhyphen"/>gainſt <hi>Cruelty</hi> and <hi>Violence</hi> on the Score of Conſcience: She deteſts and abominates all ſuch Proceedings; and you cannot think She'll now ſo degenerate, as to grieve for theſe Things being taken out of her Power, which She glory'd before to have <hi>Reform'd.</hi> You ſeem not to be throughly acquainted with the Conſtitution of this <hi>Church</hi> and Her <hi>Members,</hi> if you think 'twill be an Aggrie<g ref="char:EOLhyphen"/>vance to 'em, becauſe 'tis not in their Power to <hi>Perſecute.</hi> If you had but heard their Doctrins, and read the Sermons they have Preach'd and Printed on this Subject, you muſt needs take 'em for the greateſt <hi>Diſſemblers</hi> and <hi>Hypocrits</hi> in the World, if after ſo many repeated Claims to <hi>Mode<g ref="char:EOLhyphen"/>ration</hi> and <hi>Meekneſs,</hi> they ſhould be ſtill in love with Per<g ref="char:EOLhyphen"/>ſecution, and cannot ſee their Neighbors Exerciſe their Religion in quiet, but this Quiet of their Neighbor muſt be Their Perſecution. Alas this wou'd argue in them a Poor Spirit of Chriſtianity, 'twou'd make any one ſuſpect the Sincerity of their Preaching, and put into us a Jealouſie that what they condemn in others, they love to practiſe themſelves.</p>
+            <p>But you fear this <hi>Liberty</hi> will introduce <hi>Hereſies</hi> and <hi>Schiſms</hi> into the Church, which cannot be well plea<g ref="char:EOLhyphen"/>ſing to the Church of <hi>England,</hi> whoſe Concern it has always been, to maintain a <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> a<g ref="char:EOLhyphen"/>mongſt Believers. And here I muſt take the freedom again to tell you, you do not judge of Things aright. Mr. <hi>Kidder</hi>'s Sermon Licenc'd by the Archbiſhop's Chaplain, and Publiſh'd the laſt Week, concerning <hi>the Judgment of Private Diſcretion in Matters of Re<g ref="char:EOLhyphen"/>ligion,</hi>
+               <pb n="3" facs="tcp:59645:3"/>would inform you better, eſpecially pag. 20. where he tells you, <hi>'Tis a fond thing to imagine that there ſhall be no Hereſies or Schiſms, and that we have found a Way to prevent them: This is like the Boaſt of a Mounte<g ref="char:EOLhyphen"/>bank.</hi> —<hi>God hath foretold that there ſhould come a Falling away, and that ſome ſhould be under ſtrong Deluſions, and believe a Lie. It is a vain thing to pretend a Remedy a<g ref="char:EOLhyphen"/>gainſt that Evil, againſt which God himſelf has provided none.</hi> Now what reaſon have you to think, that if <hi>Hereſies</hi> and <hi>Schiſms</hi> ſhould ariſe, they would occaſion any Diſturbance to the <hi>Church of England,</hi> whenas they are very well ſatisfi'd, there <hi>muſt be Hereſies;</hi> that 'tis a Fond thing to imagine they can be prevented; and that 'tis but <hi>Vain</hi> and <hi>Mountebank-like</hi> to pretend Re<g ref="char:EOLhyphen"/>medy againſt ſuch an Evil, againſt which God has pro<g ref="char:EOLhyphen"/>vided none? If they <hi>muſt come,</hi> they <hi>muſt.</hi> The <hi>Church of England</hi> is Wiſe enough to Foreſee theſe Evils, and bear them with Patience, without an <hi>
+                  <g ref="char:V">Ʋ</g>nneceſſary</hi> Care or Solicitude to Prevent them. But I don't know what you may call <hi>Hereſie</hi> and <hi>Schiſm:</hi> You know the <hi>Church of England,</hi> as Mr. <hi>Kidder</hi> delivers her Doctrin, is not for having Her Followers <hi>Guided</hi> in Matters of Religion by any <hi>Authority,</hi> nor taking up their <hi>Faith</hi> upon Confi<g ref="char:EOLhyphen"/>dence of any <hi>Church</hi> Chriſt has left and aſſiſted for this purpoſe; No, this he looks upon as a <hi>Slaviſh Surrender,</hi> and the way to deſpoil a Man of his <hi>Rational Faculties;</hi> This Mr. <hi>Kidder</hi> in the ſame Sermon undertakes to prove a <hi>Vain</hi> and <hi>Impious</hi> Principle; 'tis to bid Men <hi>Pull out their Eyes,</hi> and go <hi>Blindfold.</hi> And therefore to avoid ſuch Impiety, as 'tis to bid Men Follow. <hi>Hear</hi> and <hi>Believe the Church,</hi> He is for having Every Man ſet up for the <hi>Judgment of Private Diſcretion,</hi> directs his Hearers, to Search and Examine for themſelves, aſſures them They need no <hi>Guide,</hi> if they uſe their Eyes; that a Man of
+<pb n="4" facs="tcp:59645:4"/>Ordinary Capacity is able to Judge, what is <hi>True</hi> or <hi>Falſe,</hi> in Matters of Faith and Religion: <hi>That All the Articles of the Creed</hi> (p. 19.) <hi>are ſo plainly taught in the Holy Scriptures, that he who Runs may read them there:</hi> that therefore, tho' the Judgment of the <hi>Church</hi> be not to be truſted in theſe Things, yet every Man may very ſafely follow and rely on his own Judgment of <hi>Private Diſcretion.</hi> And this is very fairly made out by Mr. <hi>Kid<g ref="char:EOLhyphen"/>der,</hi> to the admiration even of thoſe who are not of his Mind.</p>
+            <p>Now here I deſire you to conſider, when the <hi>Church of England,</hi> as appears by Mr. <hi>Kidder</hi> and other her Doctors, has encourag'd all her Followers, to Search and Judge for themſelves in Matters of Faith and Religion, can it be any trouble to her, to ſee Men Judge for themſelves, and follow every Man his own Judgment? If They do what ſhe directs them, it ought to be a Comfort to Her, and not any Trouble. You wou'd certainly make the <hi>Church of England</hi> a very Severe and Hard Mother; firſt in bidding her Children not to Truſt Her, but to follow Their own Eyes; and then to be Angry and Peeviſh, when they take their own Eyes for their Guides, and don't follow Hers. If they ſhould forſake their own private Underſtanding of the Scriptures in any Article or Doctrin of Faith, and ſubmit to any Church-Interpretation of it, She tells them, this is to <hi>hoodwink their Reaſon,</hi> 'tis <hi>taking up Religion upon truſt,</hi> 'tis <hi>blindly giving up themſelves to a Guide, who may lead them to the Regions of Darkneſs.</hi> Is not this to tell them, they ought to adhere in all Points of Faith and Religion to their own <hi>Private Judgment of Diſcretion,</hi> and not take heed to the Guidance of any Church or Authority whatſoever? And pray now what's the plain Engliſh of all this, but <hi>Liberty of Conſcience?</hi> And
+<pb n="5" facs="tcp:59645:4"/>ſince the <hi>Church of England</hi> has been ſo many Years plead<g ref="char:EOLhyphen"/>ing for this <hi>Free Judging</hi> and <hi>Determining;</hi> and giving Direction to every Man, to erect within himſelf this Tribunal of <hi>Private Diſcretion,</hi> can She be in reaſon thought to be Angry, when the <hi>Civil Power,</hi> concurring with Her, Eſtabliſhes and Confirms to every Man that Right, which She holds forth as a Thing belonging to them, as they are Rational Creatures? This is an Ab<g ref="char:EOLhyphen"/>ſurdity not to be charg'd on any Society of Men, To give Directions, and then to be Angry when they are follow'd.</p>
+            <p>But to paſs to your next Point; You know the Chri<g ref="char:EOLhyphen"/>ſtians, who have the Benefit of this <hi>Indulgence,</hi> are chiefly ſuch as are call'd <hi>Nonconformiſts</hi> and <hi>Diſſenters,</hi> or elſe the <hi>Papiſts.</hi> Now I am perſwaded, it can be no Ag<g ref="char:EOLhyphen"/>grievance to the <hi>Church of England,</hi> that Both theſe Sorts be allow'd the Enjoyment of this <hi>Liberty of Conſcience.</hi> For as to the <hi>Former,</hi> it is the Opinion of many Eminent Divines, and other Sober Men, that moſt <hi>Nonconfor<g ref="char:EOLhyphen"/>miſts</hi> differ not from the <hi>Church of England</hi> in any <hi>Eſſen<g ref="char:EOLhyphen"/>tial</hi> or <hi>Material</hi> Point; but chiefly in <hi>Ceremonies, Cir<g ref="char:EOLhyphen"/>cumſtantials</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nneceſſaries.</hi> Now if you peruſe the Writings of the <hi>Church of England,</hi> of her Prelates and Doctors, you'll find that many of them have freely in<g ref="char:EOLhyphen"/>clin'd of themſelves to a Condeſcention to theſe Weaker Brethren, and have been willing to abate many of theſe <hi>Circumſtantials</hi> in conſideration of a better Union, and ſtricter Peace. <hi>Do we value</hi> (ſays Dr. <hi>Stilling fleet</hi> in his Preface to the <hi>
+                  <g ref="char:V">Ʋ</g>nreaſonableneſs of Separation</hi>) <hi>a few in<g ref="char:EOLhyphen"/>different Ceremonies, and ſome late Declarations, and doubtful Expreſſions, beyond the Satisfaction of Mens Con<g ref="char:EOLhyphen"/>ſciences, and the Peace and Tranquillity of the Church?</hi>— <hi>I do think it would be a part of Chriſtian Wiſdom and Con<g ref="char:EOLhyphen"/>deſcention in the Governors of our Church to remove thoſe
+<pb n="6" facs="tcp:59645:5"/>Bars from a freedom in joyning in full Communion with us.</hi> —<hi>Such a Review may be ſo far from being a Diſhonor to this Church, that it may add to the Glory of it. I think we have no cauſe to doubt</hi> (ſays Dr. <hi>Tillotſon</hi> in his Sermon on <hi>John</hi> 13. Ver. 34, 35.) <hi>but the Governors of our Church are Perſons of that Piety and Prudence, that for Peace ſake, and in order to a firm <g ref="char:V">Ʋ</g>nion among Proteſtants, they would be content, if that would do it, not to inſiſt on little Things, but to yield them up, whether to the Infirmity, or Imporiu<g ref="char:EOLhyphen"/>nity, or perhaps, in ſome very few Things, to the plauſible Exceptions of thoſe who differ from us. Neceſſary Points</hi> (ſays Dr. <hi>Barrow,</hi> Treat. of the Pop. Supr. pag. 219.) <hi>may and will by all Honeſt People be known and determin'd by the clear Teſtimony of Scripture, and other Points need not to be determin'd.</hi> And again, <hi>A more ready way to determine Controverſies, is, for every one Not to Preſcribe to others, or to Perſecute; for then Men would more clearly ſee the Truth, and Conſent.</hi> With theſe concur ſeveral others of the Firſt Rank, which I could quote at large; but theſe are ſufficient to undeceive you, and let you ſee, that 'tis not at all likely, that the <hi>Church of England,</hi> which has been, and is at preſent, if I am rightly in<g ref="char:EOLhyphen"/>form'd, willing to abate in her <hi>Worſhip</hi> a great part of theſe <hi>Ceremonies,</hi> ſhould be at all concern'd to ſee the <hi>Diſſenters</hi> have the Free Exerciſe of their <hi>Religion</hi> and <hi>Worſhip,</hi> without the Obligation of obſerving thoſe <hi>Ce<g ref="char:EOLhyphen"/>remonies,</hi> which She her ſelf, by her Free Offer of Con<g ref="char:EOLhyphen"/>deſcention, ſeems not unwilling, at leaſt for Peace ſake, to leave out of Her <hi>Public Service.</hi> As long as Her chief Concern is the Peace and Tranquillity of the Church, and the Satisfaction of Mens Conſciences, 'tis not to be imagin'd, She'll ever be inclin'd to diſturb this Peace, or moleſt Her Neighbor, upon the Score of a Few <hi>Indifferent Ceremonies, Late Declarations,</hi> or <hi>Doubtful
+<pb n="7" facs="tcp:59645:5"/>Expreſſions.</hi> She's ſatisfi'd, that for all <hi>Neceſſary Points,</hi> every Honeſt Man will know them by Scripture, and for ſuch as are <hi>not Neceſſary,</hi> She thinks it better not to Determine them, nor Preſcribe them to others, nor to Perſecute any on this Score. What Diſquiet there<g ref="char:EOLhyphen"/>fore can it poſſibly cauſe in the <hi>Church of England</hi> to ſee a <hi>Liberty</hi> granted to the <hi>Nonconformiſts</hi> of performing their Service without theſe Ceremonies?</p>
+            <p>And as for the <hi>Papiſts,</hi> 'tis generally granted, that They agree with all other Chriſtians in <hi>Fundamentals,</hi> holding all things that are of <hi>Neceſſity</hi> to be <hi>Believ'd;</hi> and upon this Conſideration, I cannot but think, that the <hi>Church of England</hi> will be willing to allow them the Freedom of their Religion; it being the Generally re<g ref="char:EOLhyphen"/>ceiv'd Opinion of <hi>Proteſtants,</hi> that the True way to make a Laſting Union amongſt Chriſtians, is to diſtin<g ref="char:EOLhyphen"/>guiſh betwixt <hi>Tenets neceſſary to be Believ'd,</hi> and <hi>Tenets not neceſſary to be Believ'd;</hi> and <hi>Neceſſaries being once agreed on, to uſe a Forbearance in things <g ref="char:V">Ʋ</g>nneceſſary.</hi> Why then, for the greater Extenſion of Chriſtian Cha<g ref="char:EOLhyphen"/>rity, may not this <hi>Forbearance</hi> be extended to <hi>Papiſts,</hi> ſince in all <hi>Neceſſaries</hi> they agree with other Chriſtians? Beſides, if I miſtake not, the <hi>Church of England</hi> has ſo much Charity, as to think, that <hi>Papiſts may be Sav'd:</hi> This allows the <hi>Papiſts</hi> to be Sons of God and Members of Chriſt; and if <hi>They</hi> and the <hi>Church of England</hi> have <hi>One Common Head</hi> in Heaven, ought not they to have an Affection for them on Earth? Can it be allowable in them to hate Thoſe whom, as they own, Chriſt will receive? Or can They ſay to Them, <hi>Go ye Curſed,</hi> to whom our Lord will ſay, <hi>Come ye Bleſſed?</hi> If God owns them as Sons, I believe the <hi>Church of England</hi> may eaſily love them as Brethren: For if God admits them to the Participation of his Kingdom, it becomes not any to be
+<pb n="8" facs="tcp:59645:6"/>averſe from them on Earth, with whom they ſhall converſe in Heaven.</p>
+            <p>And if the <hi>Papiſts</hi> are not ſo good Chriſtians as to be the Members of Chriſt and capable of Salvation, but as others ſeem to take them, <hi>Idolaters, Superſtitious, Pro<g ref="char:EOLhyphen"/>phane,</hi> without <hi>Senſe</hi> or <hi>Reaſon,</hi> or any Ground of <hi>Scri<g ref="char:EOLhyphen"/>pture</hi> for what they teach or do; it ought ſtill to be the Concern of the <hi>Church of England,</hi> to let them partake of this <hi>Liberty;</hi> that ſo They being in <hi>Public,</hi> their <hi>Follies</hi> and <hi>Superſtitions</hi> might be more expos'd; that the Peo<g ref="char:EOLhyphen"/>ple might hear thoſe <hi>Abſurd</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nchriſtian</hi> Doctrins from their own Pulpits and Catechiſms, and bear Wit<g ref="char:EOLhyphen"/>neſs of them, and ſo ſee whether all be not True, that has been charg'd againſt them. This would better end all the Controverſie of <hi>Miſrepreſenting</hi> than many Vo<g ref="char:EOLhyphen"/>lumes, and ſave the <hi>Church of England</hi> any farther trou<g ref="char:EOLhyphen"/>ble of <hi>Laying the Papiſts open,</hi> which, if it could be excus'd, would be no ſmall Advantage to Her; this thing of mixing <hi>Invectives</hi> and <hi>Satyrs</hi> againſt Neighbors with the <hi>Goſpel</hi> in Pulpits, being no ſmall Reflection upon Her with ſeveral ſorts of People; Some taking it to be <hi>Railing,</hi> others to be <hi>
+                  <g ref="char:V">Ʋ</g>ngentile</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nmannerly,</hi> others to be <hi>
+                  <g ref="char:V">Ʋ</g>ncharitable,</hi> others to be an Effect of <hi>Sloth</hi> and <hi>Idleneſs,</hi> whilſt they think it much eaſier to <hi>Ridicule</hi> anothers Opinion, than to <hi>Prove</hi> their own, or find out a more ſerious Matter for <hi>Exhortation.</hi> In fine, if the <hi>Papiſts</hi> are thus <hi>Wicked</hi> and <hi>Abominable,</hi> the ſureſt way to weaken them, is to make them <hi>Public;</hi> for <hi>Wickedneſs</hi> and <hi>Abomination</hi> ſeeks for <hi>Corners,</hi> and thrives moſt when 'tis conceal'd; when if 'twere expos'd to the <hi>Public,</hi> 'twould be deteſted by the Beholders, and be ſoon hiſs'd out of the World.</p>
+            <p>I have only One thing now more to Conſider, and 'tis that you apprehend, that this <hi>Indulgence</hi> will be too
+<pb n="9" facs="tcp:59645:6"/>favourable to many Diſaffected Parties and Perſons, that 'twill give them occaſion to encreaſe and thrive, and grow up ſo many Enemies to the King and Government, which cannot be acceptable to the <hi>Church of England,</hi> which on all Occaſions has been ſo truly Loyal, and Faith<g ref="char:EOLhyphen"/>ful to their Monarch. To this I need ſay no more, than that I find our preſent Sovereign, who in this is chiefly concern'd, has Conſider'd this Point; and he is of Opi<g ref="char:EOLhyphen"/>nion, that on the contrary, this <hi>Liberty</hi> will remove Ani<g ref="char:EOLhyphen"/>moſities, break Factions, and make Friends of Enemies; the Conſtraint and Rigor that has been us'd to Mens Conſciences, for the maintaining Uniformity in Worſhip, having created ill Blood, and been the Occaſion of thoſe Unnatural Rebellions, that have diſturb'd this Nation for many Years. Now you know our Prince, whom God preſerve, beſides his Great Wiſdom, has had ſo long Experience of the Temper of his People, and is ſo care<g ref="char:EOLhyphen"/>ful for the Good and Peace of the Kingdom, that no <hi>Loyal</hi> or <hi>Good</hi> Subject can think he do's not provide for the Welfare and Tranquillity of it, in the Beſt and Safeſt way poſſible. And ſince the <hi>Church of England</hi> is ſo Emi<g ref="char:EOLhyphen"/>nent for its Loyalty, I cannot imagine She can be trou<g ref="char:EOLhyphen"/>bled at what the King do's for the Safety of his Royal Perſon and Good of his People; or be for the perſiſting in ſuch a Method, which his Majeſty conceives has made the Government Uneaſie to his Royal Predeceſſors, and in ſome manner occaſion'd the moſt barbarous Effuſion of Royal Blood.</p>
+            <p>This is ſufficient to ſatisfie you in the chief Difficulties you propos'd; and to remove out of your Mind that Diffidence you ſeem'd to have of the <hi>Church of England</hi> in this Juncture of Affairs. Conſider what <hi>Loyalty</hi> is, and for the future take thence a Meaſure of their Beha<g ref="char:EOLhyphen"/>viour. Never queſtion, but where this admirable <hi>Qua<g ref="char:EOLhyphen"/>lity</hi>
+               <pb n="10" facs="tcp:59645:7"/>of a <hi>Good Subject</hi> is, 'twill labor to unite the Peoples Hearts with the Prince, 'twill cauſe an Approbation of what he do's in the Adminiſtration of his Government, and never permit any, by ſhewing a <hi>Diſlike</hi> to his Orders, by being <hi>Sowr</hi> and <hi>Peeviſh,</hi> to alienate the Peoples Hearts from their Sovereign. No, never think this of <hi>Good</hi> and <hi>Loyal Subjects;</hi> this is only for <hi>Malecontents,</hi> and ſuch as are <hi>Diſaffected</hi> to the Government; for ſuch as are for keeping up a <hi>Party,</hi> or maintaining a Faction: And if you find any do thus Diſloyally, never take them for <hi>Members</hi> of the <hi>Church of England.</hi> Every Good Chri<g ref="char:EOLhyphen"/>ſtian and Loyal Subject will be for removing ANIMO<g ref="char:EOLhyphen"/>SITIES and JEALOUSIES, and Laying theſe <hi>two Devils</hi> of this Nation. Let You and I contribute to it with the beſt of our Endeavours, and as much as in us lies, follow St. <hi>Paul</hi>'s Advice of <hi>Living peaceably with all men.</hi> Farewel.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Servant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
